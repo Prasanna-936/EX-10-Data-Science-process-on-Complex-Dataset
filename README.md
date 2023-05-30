@@ -4,6 +4,12 @@
 
 To Perform Bivariate/Multivariate Analysis
 
+## DATE:
+
+GITHUB LINK:
+
+COLAB LINK:
+
 ## ALGORITHM :
 
 1.Read the given data
