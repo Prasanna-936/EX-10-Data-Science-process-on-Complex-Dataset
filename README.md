@@ -22,8 +22,8 @@ COLAB LINK:https://colab.research.google.com/drive/1NVXuiyaSNIa2AyA1-P9UxAfYcm09
 
 ## PROGRAM :
 
-Developed by: Hariharan S
-Reg no: 212221220016
+Developed by: Prasanna R
+Reg no: 212221220039
 
 import pandas as pd
 
