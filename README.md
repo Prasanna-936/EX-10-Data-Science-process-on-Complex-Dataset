@@ -1,15 +1,13 @@
 # Flight information -analysis
 
-## AIM :
-
-To Perform Bivariate/Multivariate Analysis
-
 ## DATE:
 
 GITHUB LINK:https://github.com/Prasanna-936/EX-10-Data-Science-process-on-Complex-Dataset
 
 COLAB LINK:https://colab.research.google.com/drive/1NVXuiyaSNIa2AyA1-P9UxAfYcm096ZPl?usp=sharing
+## AIM :
 
+To Perform Bivariate/Multivariate Analysis
 ## ALGORITHM :
 
 1.Read the given data
